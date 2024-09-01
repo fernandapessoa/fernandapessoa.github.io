@@ -98,11 +98,11 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://seusite.com/assets/lib/profile.jpg"
+avatar: "https://media.licdn.com/dms/image/v2/D4D03AQEs0MVVimDGRg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1673879113667?e=1730937600&v=beta&t=-C-W99P8Gn12ynCmdHBOR4QN1eDfrC5gF22Rpk_X0uM"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "https://seusite.com/assets/lib/profile.jpg"
+social_preview_image: "https://media.licdn.com/dms/image/v2/D4D03AQEs0MVVimDGRg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1673879113667?e=1730937600&v=beta&t=-C-W99P8Gn12ynCmdHBOR4QN1eDfrC5gF22Rpk_X0uM"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
